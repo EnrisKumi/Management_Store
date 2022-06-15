@@ -1,0 +1,2 @@
+Thriller | Quantity: 2 | Unit Price: 15.0$ | Total Price: 30.0$
+Total price: 30.0$
